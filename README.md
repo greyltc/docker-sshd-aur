@@ -1,5 +1,4 @@
 # docker-sshd-aur
-====================
 This is exactly the same as https://github.com/greyltc/docker-sshd with the following exception:
 
 Containers based on this one can use the following to install `PACKAGE` from the AUR:
